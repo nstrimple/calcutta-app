@@ -1,4 +1,10 @@
+import React from 'react'
+import Button from 'react-bootstrap/Button'
 
 export default function Home() {
-  return null
+  return (
+    <>
+    <h1>Test</h1>
+    </>
+  )
 }
